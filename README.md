@@ -3,7 +3,7 @@
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
 🔒 Foco em Cibersegurança  
 🐧 Apaixonado por Linux, hacking e tecnologia  
-🚀 Portfólio de projetos e estudos: **AkiraSec**
+🚀 Portfólio de projetos e estudos: **[Carlos-offsec](https://github.com/carlos-offsec)**
 
 ---
 

@@ -26,6 +26,8 @@ Hoje curso **Segurança da Informação** e passo o tempo quebrando coisas pra e
   <img src="https://img.shields.io/badge/Bash-0D1117?style=flat-square&logo=gnubash&logoColor=00FF41" />
   <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=00FF41" />
   <img src="https://img.shields.io/badge/Kali-0D1117?style=flat-square&logo=kalilinux&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Parrot_OS-0D1117?style=flat-square&logo=parrotsecurity&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/BlackArch-0D1117?style=flat-square&logo=archlinux&logoColor=00FF41" />
 </p>
 
 ---

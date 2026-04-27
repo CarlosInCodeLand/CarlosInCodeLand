@@ -48,7 +48,7 @@ Hoje curso **Segurança da Informação** e passo o tempo quebrando coisas pra e
 > Tudo fica no meu lab principal:
 
 <a href="https://github.com/carlos-offsec">
-  <img src="https://img.shields.io/badge/⚡_c4o5.sec-0D1117?style=for-the-badge&logo=github&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/⚡_c4o5.sec-00FF41?style=for-the-badge&logo=github&logoColor=0D1117" />
 </a>
 
 </div>
